@@ -1,106 +1,43 @@
 {
   "sections": {
-    "image_banner": {
-      "type": "image-banner",
-      "settings": {
-        "desktop_text_box_position": "flex-end"
-      },
+    "16334721086206a89f": {
+      "type": "hero",
       "blocks": {
-        "heading": {
-          "type": "heading",
+        "b1fe18a2-c94a-4228-a8fb-2b9b2b989357": {
+          "type": "collection",
           "settings": {
-            "heading": "Talk about your brand"
+            "collection": "playa",
+            "image_bg": "shopify:\/\/shop_images\/hero-beach.png",
+            "image_hover": "shopify:\/\/shop_images\/hero-beach-hover.png"
           }
         },
-        "button": {
-          "type": "buttons",
+        "3096be99-8fd6-467b-8a25-7cec21c88061": {
+          "type": "collection",
           "settings": {
-            "button_label_1": "Shop all",
-            "button_link_1": "shopify://collections/all",
-            "button_label_2": ""
+            "collection": "denim",
+            "image_bg": "shopify:\/\/shop_images\/hero-denim.png",
+            "image_hover": "shopify:\/\/shop_images\/hero-denim-hover.png"
+          }
+        },
+        "7aa80545-fbb8-41c1-ae81-c8763bc8b8c9": {
+          "type": "collection",
+          "settings": {
+            "collection": "back-to-work",
+            "image_bg": "shopify:\/\/shop_images\/hero-work.png",
+            "image_hover": "shopify:\/\/shop_images\/hero-work-hover.png"
           }
         }
       },
       "block_order": [
-        "heading",
-        "button"
-      ]
-    },
-    "rich_text": {
-      "type": "rich-text",
-      "blocks": {
-        "heading": {
-          "type": "heading"
-        },
-        "text": {
-          "type": "text"
-        },
-        "button": {
-          "type": "button"
-        }
-      },
-      "block_order": [
-        "heading",
-        "text",
-        "button"
-      ]
-    },
-    "featured_products": {
-      "type": "featured-collection",
+        "b1fe18a2-c94a-4228-a8fb-2b9b2b989357",
+        "3096be99-8fd6-467b-8a25-7cec21c88061",
+        "7aa80545-fbb8-41c1-ae81-c8763bc8b8c9"
+      ],
       "settings": {
-        "title": "Featured products",
-        "collection": "all",
-        "image_ratio": "square"
       }
-    },
-    "collage": {
-      "type": "collage",
-      "blocks": {
-        "video": {
-          "type": "video"
-        },
-        "product": {
-          "type": "product"
-        },
-        "collection": {
-          "type": "collection"
-        }
-      },
-      "block_order": [
-        "video",
-        "product",
-        "collection"
-      ]
-    },
-    "video": {
-      "type": "video"
-    },
-    "multi_column": {
-      "type": "multicolumn",
-      "blocks": {
-        "column1": {
-          "type": "column"
-        },
-        "column2": {
-          "type": "column"
-        },
-        "column3": {
-          "type": "column"
-        }
-      },
-      "block_order": [
-        "column1",
-        "column2",
-        "column3"
-      ]
     }
   },
   "order": [
-    "image_banner",
-    "rich_text",
-    "featured_products",
-    "collage",
-    "video",
-    "multi_column"
+    "16334721086206a89f"
   ]
 }
