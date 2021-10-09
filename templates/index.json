@@ -41,10 +41,49 @@
       "settings": {
         "collection": "weekly-pick"
       }
+    },
+    "16337928367df50b82": {
+      "type": "collection-grid",
+      "blocks": {
+        "26aba32a-d148-4e5c-bd00-db1a3425edae": {
+          "type": "collection",
+          "settings": {
+            "collection": "bottoms"
+          }
+        },
+        "f61c614a-665c-41a8-9096-cbf43c9690ee": {
+          "type": "collection",
+          "settings": {
+            "collection": "denim"
+          }
+        },
+        "1d1fe10d-110f-44ca-be72-d00c199d9b50": {
+          "type": "collection",
+          "settings": {
+            "collection": "dresses"
+          }
+        },
+        "ff0ce0aa-55df-47a8-adc5-a9eb3d9cff4d": {
+          "type": "collection",
+          "settings": {
+            "collection": "tops"
+          }
+        }
+      },
+      "block_order": [
+        "26aba32a-d148-4e5c-bd00-db1a3425edae",
+        "f61c614a-665c-41a8-9096-cbf43c9690ee",
+        "1d1fe10d-110f-44ca-be72-d00c199d9b50",
+        "ff0ce0aa-55df-47a8-adc5-a9eb3d9cff4d"
+      ],
+      "settings": {
+        "header": "Lo mejor"
+      }
     }
   },
   "order": [
     "16334721086206a89f",
-    "16335534347f4a0b43"
+    "16335534347f4a0b43",
+    "16337928367df50b82"
   ]
 }

@@ -1,6 +1,6 @@
 .collection-hero--with-image {
   background-color: rgba(var(--color-foreground), 0.04);
-}
+} 
 
 .collection-hero__inner {
   display: flex;
@@ -42,6 +42,7 @@
 
 .collection-hero__title {
   margin: 5rem 0 0;
+  text-align: center;
 }
 
 .collection-hero__title + .collection-hero__description {
